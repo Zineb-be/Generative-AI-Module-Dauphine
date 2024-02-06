@@ -89,13 +89,13 @@ Click on `Help`, `Show All Commands`. Type `Python: Select Interpreter` and choo
 
 Open the files `notebooks\getting_started.ipynb` and `test_flask_app.py`, and run them, to see if everything is well configured.
 
-10. Check the data
+9. Check the data
 
 Use the sample data first `data\twitter_data_clean_sample.csv`. 
 
 #### Warning : there are a lot of data in the full csv data `data\twitter_data_clean.csv`, please be careful especially when processing that data with OpenAI to not consume all the API Credit.
 
-11. You are ready to go 🥳
+10. You are ready to go 🥳
 
 
 ## Suggestion of the way of work
